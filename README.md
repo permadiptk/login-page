@@ -4,7 +4,7 @@ Login Page With html And Css
 
 ## Demo
 
-[https://github.com/permadiptk/login-page]
+[https://permadiptk.github.io/login-page/]
 
 ## Authors
 
